@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89809ba24f64dc149a29f3311e57edf0, type: 3}
+  m_Name: Character Database
+  m_EditorClassIdentifier: 
+  character:
+  - name: Spider-Man
+    indexCharacter: 0
+    jumpInitialValue: 5
+    jumpValue: 5
+    speedInitialValue: 5
+    speedValue: 5
+    gravityInitialValue: 1
+    gravityValue: 1
+    powerInitialValue: 15
+    powerValue: 15
+    spriteSupererou: {fileID: 21300000, guid: 96831160da4772a419c830ef2bccdf0b, type: 3}
+    unlocked: 1
+    colorSupererou: {r: 1, g: 0.16470589, b: 0.14117648, a: 1}
+  - name: Hulk
+    indexCharacter: 1
+    jumpInitialValue: 5
+    jumpValue: 5
+    speedInitialValue: 4
+    speedValue: 6
+    gravityInitialValue: 1
+    gravityValue: 1
+    powerInitialValue: 20
+    powerValue: 20
+    spriteSupererou: {fileID: 21300000, guid: 7cbeb4f90057b7843bdfa59f4b8a299e, type: 3}
+    unlocked: 1
+    colorSupererou: {r: 0.14117648, g: 0.33333334, b: 0.16078432, a: 1}
+  - name: Superman
+    indexCharacter: 2
+    jumpInitialValue: 7
+    jumpValue: 7
+    speedInitialValue: 4
+    speedValue: 4
+    gravityInitialValue: 1
+    gravityValue: 1
+    powerInitialValue: 35
+    powerValue: 35
+    spriteSupererou: {fileID: 21300000, guid: 796df17e0d08c0e44b18890c81659ad3, type: 3}
+    unlocked: 1
+    colorSupererou: {r: 0.26666668, g: 0.5176471, b: 0.8000001, a: 1}
+  - name: Batman
+    indexCharacter: 3
+    jumpInitialValue: 8
+    jumpValue: 8
+    speedInitialValue: 3
+    speedValue: 3
+    gravityInitialValue: 1
+    gravityValue: 1
+    powerInitialValue: 12
+    powerValue: 12
+    spriteSupererou: {fileID: 21300000, guid: 651a1584af4fa824e8217b53b1f353a1, type: 3}
+    unlocked: 0
+    colorSupererou: {r: 0.03529412, g: 0.06666667, b: 0.16078432, a: 1}
+  - name: Ironman
+    indexCharacter: 4
+    jumpInitialValue: 8
+    jumpValue: 8
+    speedInitialValue: 5
+    speedValue: 5
+    gravityInitialValue: 1
+    gravityValue: 1
+    powerInitialValue: 22
+    powerValue: 22
+    spriteSupererou: {fileID: 21300000, guid: 0832f1bb17c25674ca8378876555c842, type: 3}
+    unlocked: 0
+    colorSupererou: {r: 1, g: 0.8705883, b: 0.37254903, a: 1}
