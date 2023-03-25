@@ -1,2 +1,2 @@
-# Idle-Superheroes
+2D Platformer Game for android
  
